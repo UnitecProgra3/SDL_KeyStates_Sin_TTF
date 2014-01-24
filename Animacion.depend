@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390588023 source:/home/turupawn/Projects/Codeblocks/Animacion/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
